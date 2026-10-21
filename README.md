@@ -21,3 +21,7 @@ Report security issues, privacy requests and anything confidential by email to *
 - Privacy policy: https://berkly.nl/privacy/sla-for-jira
 - End User Licence Agreement: https://berkly.nl/eula/sla-for-jira
 - Data Processing Addendum: https://berkly.nl/dpa/sla-for-jira
+
+## Documentation
+
+Full wiki: [SLA for Jira Software docs](https://github.com/berkkarabacak/jira-sla/tree/main/docs/wiki)
