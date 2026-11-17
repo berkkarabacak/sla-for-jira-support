@@ -4,7 +4,8 @@ Public support and issue tracker for **SLA for Jira Software**, an Atlassian For
 
 ## Documentation
 
-**[Get started guide](GET-STARTED.md)**: your first SLA in 5 steps, calendars and timezones, pause and overrides, SLA fields in JQL, and what each Health line means.
+- **[Get started guide](GET-STARTED.md)**: your first SLA in 5 minutes, working hours and timezones, pauses and overrides, SLA values in JQL, and what each Health check means.
+- **[Full documentation](docs/README.md)**: overview, user guide, admin guide, use cases and recipes, data, security and privacy, licensing, FAQ and release notes.
 
 ## Report a bug or ask a question
 
@@ -21,7 +22,3 @@ Report security issues, privacy requests and anything confidential by email to *
 - Privacy policy: https://berkly.nl/privacy/sla-for-jira
 - End User Licence Agreement: https://berkly.nl/eula/sla-for-jira
 - Data Processing Addendum: https://berkly.nl/dpa/sla-for-jira
-
-## Documentation
-
-Full wiki: [SLA for Jira Software docs](https://github.com/berkkarabacak/jira-sla/tree/main/docs/wiki)
